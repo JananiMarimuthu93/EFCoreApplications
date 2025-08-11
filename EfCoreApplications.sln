@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppUsingDBFirstApproach", "ConsoleAppUsingDBFirstApproach\ConsoleAppUsingDBFirstApproach.csproj", "{B855986F-FE85-43D0-98D4-C75AB3053404}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppUsingCodeFirstApproach", "ConsoleBasedCodeFirstApproach\ConsoleAppUsingCodeFirstApproach.csproj", "{104662DF-A3F7-4DAE-A877-05AFF4E06261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppUsingDBFirstApproach", "WebAppUsingDBFirstApproach\WebAppUsingDBFirstApproach.csproj", "{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{104662DF-A3F7-4DAE-A877-05AFF4E06261}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104662DF-A3F7-4DAE-A877-05AFF4E06261}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104662DF-A3F7-4DAE-A877-05AFF4E06261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
