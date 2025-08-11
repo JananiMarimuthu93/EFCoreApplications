@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppUsingCodeFirstApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppUsingDBFirstApproach", "WebAppUsingDBFirstApproach\WebAppUsingDBFirstApproach.csproj", "{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppUsingCodeFirstApproach", "WebAppUsingCodeFirstApproach\WebAppUsingCodeFirstApproach.csproj", "{087FCDD1-9CAF-4647-AC4B-718B207C305E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64D15361-7605-4D9D-A9F1-CD46C7ABDC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087FCDD1-9CAF-4647-AC4B-718B207C305E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087FCDD1-9CAF-4647-AC4B-718B207C305E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087FCDD1-9CAF-4647-AC4B-718B207C305E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087FCDD1-9CAF-4647-AC4B-718B207C305E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
